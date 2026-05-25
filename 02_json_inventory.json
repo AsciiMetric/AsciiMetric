@@ -1,0 +1,23 @@
+[
+  {
+    "Path": "C:/ASCIIMETRIC_AI_SYSTEM/00_DALHIA/llm_core/dalhia_core.json",
+    "Name": "dalhia_core.json",
+    "Directory": "C:/ASCIIMETRIC_AI_SYSTEM/00_DALHIA/llm_core",
+    "Size": 5371,
+    "LastWriteTime": "2026-05-25T02:20:00"
+  },
+  {
+    "Path": "C:/ASCIIMETRIC_AI_SYSTEM/06_MERIDIAN/tasks.json",
+    "Name": "tasks.json",
+    "Directory": "C:/ASCIIMETRIC_AI_SYSTEM/06_MERIDIAN",
+    "Size": 0,
+    "LastWriteTime": "2026-05-25T00:00:00"
+  },
+  {
+    "Path": "C:/ASCIIMETRIC_AI_SYSTEM/06_MERIDIAN/missions.json",
+    "Name": "missions.json",
+    "Directory": "C:/ASCIIMETRIC_AI_SYSTEM/06_MERIDIAN",
+    "Size": 0,
+    "LastWriteTime": "2026-05-25T00:00:00"
+  }
+]
